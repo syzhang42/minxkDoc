@@ -1,4 +1,4 @@
-![logo](images/1.jpg ':size=50x50')
+![logo](images/1.jpg ':size=100x100')
 # 明日星空文档
 ## 个人文档网站
 
