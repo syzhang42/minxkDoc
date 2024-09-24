@@ -4,9 +4,9 @@
 > 私人文档
 * 碎碎念
 * 啰里啰唆
+
 [GitHub](https://syzhang42.github.io/minxkDoc)
-[Get Started](#quick-start)
-[Get Started](#quick-start)
+[开始使用](/README.md)
 
 <!-- 背景色 -->
 ![color](#ffffcc)
