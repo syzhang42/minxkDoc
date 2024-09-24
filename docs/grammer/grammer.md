@@ -1,1 +1,1 @@
-* [2.1 go](docs/grammer/go.md)  
+* [2.1 go]
